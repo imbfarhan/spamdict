@@ -1,0 +1,24 @@
+Test File to see the features of SpamDict.
+
+Paragraph:
+Hey,
+Why didnt you SPAM to me? I told you to do it right you *******
+Well i provide content for smart people and not for beginner and **** head like you!
+beginner people like you must be dealt with soon.
+you ******
+Get Lost!
+
+Complex Words:
+**** head!!
+SPAM to me plz!
+SPAM to me ******* !!!!
+******
+**** ****** !!!!! xD
+SPAM to my youtube channel plis
+
+Link Filtering:
+To SPAM to me, please visit SPAM_LINK . Thank you
+
+Strong Filtering:
+**** **** **** **** ****
+

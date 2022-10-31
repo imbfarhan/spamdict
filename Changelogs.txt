@@ -1,0 +1,43 @@
+SpamDict™
+Author:Farhan Bukhari
+A Spam Word Detector And Filterer.
+
+Change Notes:
+Ver 1.7:
+- Added a major update of Strong Filtering to SpamDict!
+    ->By default, Strong Filtering is disabled. To enable it,visit Settings.
+    ->Strong Filtering allows you to detect the words hidden within other words.
+    ->Example: subscriber,mysubscriber, h3ysubscr!b3r will now get detected.
+
+
+Ver 1.6:
+- SpamDict can now detect spam links! To turn this feature on, visit the new menu option 'Settings'.
+- Added a feature to display the number of words filtered after filtering a file. Example: Total words filtered:12
+- Added a feature to display the total number of words present in the SpamDict in Check Words section.
+
+Ver 1.5:
+- Words written in special characters will now get detected. Example: $#!T will now get detected as shit.
+    ->This does not change the detection of words like s###h!it
+
+Ver 1.4
+- Words are now detected irrespective of their case.Example: su/BSCRi@bE will now get detected as subscribe.
+
+Ver 1.3
+Quality of Life changes
+- Renamed the 'Check spam in a file' feature to 'Filter spam from a file'
+- The menu now shows <-|SPAMDICT MENU|-> on top of the menu
+
+Ver 1.2
+- Added a feature to detect the words with special characters between them.Example: s#ub@@sc*rib@e will get detected as subscribe.
+
+Ver 1.1
+- Added the feature to lookup for a word in the dictionary and show its type. Example: suck Type:Censored
+
+Ver 1.0
+Official Release
+-SpamDict is released with the following features
+->Adding a word to SpamDict
+->Checking the words present in SpamDict
+->Deleting a word from SpamDict
+->Checking spam in a file
+->Saving the SpamDict

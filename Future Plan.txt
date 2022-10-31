@@ -1,0 +1,13 @@
+Detect word in singular,plural,past,present,future tense
+e.g: subscribe subsciber subscribed subscibes  from a single word
+Do this with the help of regex
+example (anything else)subscribe(anything else)
+->Allow user to Toggle Strong Filtering.
+This will filter words with substring subscribe
+e.g
+subscibers are allowed
+Here subscribers will get detected as subscribe is filtered entry
+([A-Za-z0-9])*noob([A-Za-z0-9])*
+
+
+https://stackoverflow.com/questions/6930982/how-to-use-a-variable-inside-a-regular-expression
