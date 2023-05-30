@@ -10,7 +10,8 @@ This is a spam detector/word filterer coupled with some cool features which lets
 6. Allows user to replace a word with any word of their choice
 7. Displays the number of words replaced
 
-##Screenshots
+## Screenshots
+
 ![1](https://github.com/imbfarhan/spamdict/assets/111117967/d88c0f91-e13d-4c2f-9cb0-3250304fba79)
 ![2](https://github.com/imbfarhan/spamdict/assets/111117967/f01642be-e5f1-421a-a9e1-c25350306ba7)
 ![3](https://github.com/imbfarhan/spamdict/assets/111117967/1da462a2-2c6c-4e5a-b6ae-4752f5dd29fe)
